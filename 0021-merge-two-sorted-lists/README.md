@@ -1,9 +1,7 @@
-# [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+# [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2171461175/)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-0%20ms-success?style=flat-square)
-![Memory](https://img.shields.io/badge/Memory-19.3%20MB-informational?style=flat-square)
 
 
 ### Topics
