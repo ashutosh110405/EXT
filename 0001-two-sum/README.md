@@ -1,9 +1,7 @@
-# [1. Two Sum](https://leetcode.com/problems/two-sum/)
+# [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/2171244907/)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-0%20ms-success?style=flat-square)
-![Memory](https://img.shields.io/badge/Memory-19.4%20MB-informational?style=flat-square)
 
 
 ### Topics
