@@ -1,0 +1,55 @@
+# [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
+![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-0%20ms-success?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-19.3%20MB-informational?style=flat-square)
+
+
+### Topics
+`Linked List` `Recursion`
+
+---
+
+### Description
+
+You are given the heads of two sorted linked lists `list1` and `list2`.
+
+Merge the two lists into one **sorted** list. The list should be made by splicing together the nodes of the first two lists.
+
+Return *the head of the merged linked list*.
+
+**Example 1:**
+
+![image](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
+
+```
+**Input:** list1 = [1,2,4], list2 = [1,3,4]
+**Output:** [1,1,2,3,4,4]
+```
+
+**Example 2:**
+
+```
+**Input:** list1 = [], list2 = []
+**Output:** []
+```
+
+**Example 3:**
+
+```
+**Input:** list1 = [], list2 = [0]
+**Output:** [0]
+```
+
+**Constraints:**
+
+- The number of nodes in both lists is in the range `[0, 50]`.
+	
+- `-100 <= Node.val <= 100`
+	
+- Both `list1` and `list2` are sorted in **non-decreasing** order.
+
+---
+
+*Solved on Oct 13, 2026 using **LeetCommit**.*
