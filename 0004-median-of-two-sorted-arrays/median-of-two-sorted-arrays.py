@@ -1,6 +1,3 @@
-
-            # Check if we found the correct partition
-            if max_left1 <= min_right2 and max_left2 <= min_right1:
                 # If total length is odd
                 if (m + n) % 2 == 1:
                     return float(max(max_left1, max_left2))
