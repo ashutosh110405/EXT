@@ -1,9 +1,7 @@
-# [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+# [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2171362232/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-0%20ms-success?style=flat-square)
-![Memory](https://img.shields.io/badge/Memory-19.2%20MB-informational?style=flat-square)
 
 
 ### Topics
