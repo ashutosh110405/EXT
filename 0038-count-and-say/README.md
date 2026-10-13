@@ -1,9 +1,7 @@
-# [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+# [38. Count and Say](https://leetcode.com/problems/count-and-say/submissions/2171454120/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-0%20ms-success?style=flat-square)
-![Memory](https://img.shields.io/badge/Memory-19.2%20MB-informational?style=flat-square)
 
 
 ### Topics
