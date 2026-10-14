@@ -1,7 +1,9 @@
-# [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/2171466817/)
+# [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/2172211225/)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
@@ -49,4 +51,4 @@ A **word** is a maximal substring consisting of non-space characters only.
 
 ---
 
-*Solved on Oct 13, 2026 using **LeetCommit**.*
+*Solved on Oct 14, 2026 using **LeetCommit**.*
