@@ -1,7 +1,7 @@
-# [3723. Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/submissions/2172105334/)
+# [3723. Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/submissions/2172184798/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
-![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Language: java](https://img.shields.io/badge/Language-java-blue?style=flat-square)
 
 
 ### Topics
