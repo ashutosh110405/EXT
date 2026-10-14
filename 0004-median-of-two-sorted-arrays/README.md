@@ -1,7 +1,9 @@
-# [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2171335768/)
+# [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2172210020/)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
@@ -47,4 +49,4 @@ The overall run time complexity should be `O(log (m+n))`.
 
 ---
 
-*Solved on Oct 13, 2026 using **LeetCommit**.*
+*Solved on Oct 14, 2026 using **LeetCommit**.*
