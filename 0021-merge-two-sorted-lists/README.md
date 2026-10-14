@@ -1,7 +1,9 @@
-# [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2171461175/)
+# [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2172210838/)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
@@ -50,4 +52,4 @@ Return *the head of the merged linked list*.
 
 ---
 
-*Solved on Oct 13, 2026 using **LeetCommit**.*
+*Solved on Oct 14, 2026 using **LeetCommit**.*
