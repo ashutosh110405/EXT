@@ -1,7 +1,9 @@
-# [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/2171244907/)
+# [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/2172208504/)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
@@ -53,4 +55,4 @@ You can return the answer in any order.
 
 ---
 
-*Solved on Oct 13, 2026 using **LeetCommit**.*
+*Solved on Oct 14, 2026 using **LeetCommit**.*
