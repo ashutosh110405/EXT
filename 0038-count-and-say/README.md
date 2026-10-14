@@ -1,7 +1,9 @@
-# [38. Count and Say](https://leetcode.com/problems/count-and-say/submissions/2171454120/)
+# [38. Count and Say](https://leetcode.com/problems/count-and-say/submissions/2172211036/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
@@ -54,4 +56,4 @@ This is the base case.
 
 ---
 
-*Solved on Oct 13, 2026 using **LeetCommit**.*
+*Solved on Oct 14, 2026 using **LeetCommit**.*
