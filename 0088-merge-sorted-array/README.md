@@ -1,7 +1,7 @@
-# [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2172211550/)
+# [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2172707683/)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=flat-square)
-![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
+![Language: cpp](https://img.shields.io/badge/Language-cpp-blue?style=flat-square)
 ![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
 ![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
@@ -63,4 +63,4 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 ---
 
-*Solved on Oct 14, 2026 using **LeetCommit**.*
+*Solved on Oct 15, 2026 using **LeetCommit**.*
